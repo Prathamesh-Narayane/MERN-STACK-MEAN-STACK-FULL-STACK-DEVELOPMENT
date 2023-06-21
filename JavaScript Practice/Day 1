@@ -1,0 +1,90 @@
+day-1
+
+// // console.log("hello world");
+
+// // let a=15;
+// // let b="john";
+
+// if else
+
+// // if(a<=14){
+// //     if(b=="john"){
+// //         console.log("john");
+// //     }else{
+// //         console.log("not john");
+// //     }
+    
+// //     console.log("adult");
+// // }
+// // else{
+// //     console.log("not adult");
+// // }
+
+// // let a=10;
+// // let b=15;
+// // if(a>b){
+// //     console.log("a");
+// // }else if(a<b){
+// //     console.log("b");
+// // }else{
+// //     console.log("both big");
+// // }
+
+// // let ch=2;
+// // switch(ch){
+// //     case 1:
+// //             console.log("1");
+// //             break;
+// //             case 2:
+// //                 console.log("2");
+// //                 break;
+// //                 case 3:
+// //                     console.log("3");
+// //                     break;
+// //                     default:
+// //                         console.log("###");
+// //                         break;
+// // }
+
+
+// // loops
+
+// // for loop
+
+// // let a = 5;
+// // for(let i=0;i<a;++i){
+// //     console.log("vegeta")
+// // }
+// // let b=10;
+
+// // for(let i=0;i<=b;++i){
+// //     console.log(2*i)
+// // }
+
+// // while loop
+
+// // let c=1;
+// // while(c<=10){
+// //     console.log("leena");
+// //     c++;
+// // }
+
+// // let d=1;
+// // while(d<=10){
+// //     console.log(d);
+// //     d++;
+// // }
+
+// // do while loop
+
+// // let a=1;
+// // do{
+// //     console.log("vegeta");
+// //     a++;
+// // }while(a<=10);
+
+// // let b=1;
+// // do{
+// //     console.log(`2 x ${b} = ${2*b} `);
+// //     b++;
+// // }while(b<=10);
