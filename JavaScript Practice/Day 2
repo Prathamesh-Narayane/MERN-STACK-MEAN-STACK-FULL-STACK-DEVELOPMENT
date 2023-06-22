@@ -1,0 +1,75 @@
+// // DAY-2 practice
+
+// // bigint
+// let mynumber=BigInt(123);
+// console.log(mynumber + typeof(mynumber));
+
+// // termary opreters
+
+// let a=6;
+// let dirnk = a<=5 ? "milk" : "doodh";
+// console.log(dirnk);
+
+
+// // STRING
+
+// let firstname ="Prathamesh";
+// console.log(firstname.length);
+// console.log(firstname);
+
+// // toUpperCase()
+// firstname =firstname.toUpperCase();
+// console.log(firstname);
+
+
+// // toLowerCase()
+// firstname =firstname.toLowerCase();
+// console.log(firstname);
+
+// // trim()
+// let lastname ="     narayane    ";
+// console.log(lastname.length);
+// console.log(lastname); 
+
+// lastname = lastname.trim();
+// console.log(lastname.length);
+// console.log(lastname);  
+
+// // sclice()
+// let newlastname=lastname.slice(0,6);
+// console.log(newlastname.length);
+// console.log(newlastname);
+
+// //number to sting and string to number
+// let nname ="1997";
+// console.log(nname);
+// console.log(typeof nname);
+// console.log(typeof Number(nname) );
+
+
+// // continue
+// for(let i=0;i<=10;i++){
+// if(i==4){
+//     continue;
+// }
+//     console.log(i);
+
+// }
+
+// // break
+
+// for(let i=0;i<=10;i++){
+// if(i==4){
+//     break;
+// }
+//     console.log(i);
+
+// }
+
+
+
+
+
+
+
+
