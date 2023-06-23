@@ -1,0 +1,100 @@
+// // // Day-3 arrrays 
+
+// // // Arrays prctice
+
+// // let arr = [1,2,3,4,5,6,7,8,9,10];
+// // console.log(arr);
+
+// // let mixed =[1,2,"string",null,undefined];
+// // console.log(mixed);
+
+// // // change array element
+
+// // let arr1 = [1,2,3,4,5,6,7,8,9];
+// // console.log(arr1);
+// // arr1[0] = 9;
+// // console.log(arr1); 
+
+// // pop()
+
+// // let arr=[1,2,3,4,5,6];
+// // let arr1=arr.pop();
+// // console.log(arr);
+// // console.log(arr1);
+
+// // Push()
+// // let arr=[1,2,3,4,5,6];
+// // arr.push(10);
+// // console.log(arr);
+
+// // unshift()
+// let arr=[1,2,3,4,5,6];
+// arr.unshift(0);
+// console.log(arr);
+
+// // shift()
+// let arr1=[1,2,3,4,5,6,7,8,9];
+// let arr2 =arr1.shift();
+// console.log(arr1);
+// console.log(arr2);
+
+// // primitive type
+// let a=6;
+// let b=a;
+// a++;
+// console.log(a);
+// console.log(b);
+
+
+
+// // Reference type
+// let arr3 = arr1;
+// console.log(arr3);
+
+// copy the Array
+
+// let arr=[1,2,3,4,5,6];
+// let arr1=[...arr];
+// console.log(arr1);
+
+// let arr=[1,2,3,4,5,6];
+// let arr1=arr.slice(0);
+// console.log(arr);
+// console.log(arr1);
+
+// let arr=[1,2,3,4,5,6];
+// let arr1=[].concat(arr);
+// console.log(arr);
+// console.log(arr1);
+
+// print array in loops
+// let arr =["my", "name", "is", "prathamesh"];
+// for(let i=0;i<=arr.length-1;i++){
+//     console.log(arr[i]);
+// }
+
+// while loop
+// let i=0;
+// while(i<=arr.length-1){
+//     console.log(arr[i]);
+//     i++;
+// }
+
+// for of loop
+// for(let arr1 of arr){
+//     console.log(arr1)
+// }
+
+// for in loop
+
+// for(let arr1 in arr){
+//     console.log(arr[arr1]);
+// }
+
+// array desturchering
+// const arr =["my", "name", "is", "prathamesh"];
+
+// let[myarr1,myarr2,...myarr3]=arr;
+// console.log(myarr1);
+// console.log(myarr2);
+// console.log(myarr3);
