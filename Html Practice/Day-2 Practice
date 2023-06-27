@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day 2 prctice</title>
+</head>
+<body>
+    <h1>List of fruits</h1>
+
+    <ul>
+        <li>Apple<a href="https://apple.com">see an Apple</a></li>
+        <li>Orange<a href="https://orange.com">see an Orange</a></li>
+        <li>Mango<a href="https://mango.com">see an mango</a></li>
+    </ul>
+    
+    <h1>Fname Lname</h1>
+    <img src="img/1.jpg" width="200px" height="200px">
+    <h2>about</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem exercitationem reprehenderit quas, molestias perspiciatis eum ipsum? Molestiae eligendi laboriosam a ad ut debitis voluptatum libero, labore nemo fugiat repudiandae inventore.</p>
+    <h2>Education</h2>
+    <ul>
+        <li>10th:80%</li>
+        <li>12th:70%</li>
+        <li>bsc:60%</li>
+        <li>msc:80%</li>
+    </ul>   
+    <h2>skills</h2>
+    <ul>
+        <li>Html</li>
+        <li>Css</li>
+        <li>JavaScript</li>
+        <li>Java</li>
+    </ul>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Play Games</li>
+        <li>movie</li>
+    </ul>
+
+
+</body>
+</html>
