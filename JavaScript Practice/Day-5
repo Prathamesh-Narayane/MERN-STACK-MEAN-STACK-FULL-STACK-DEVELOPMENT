@@ -1,0 +1,21 @@
+// Map
+
+// let map1 = new Map([[1,"one"],
+// ["fname","sonu"],
+// ["lname","paul"]]
+// )
+
+// for (let i of map1){
+//     console.log(i);
+// }
+// console.log(map1);
+
+// This
+
+// const obj={
+//     fname:"sonu",
+//     lname:"paul",
+//     fun:function(){
+//         console.log(this.fname);
+//     }
+// }
