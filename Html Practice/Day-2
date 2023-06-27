@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List Tags</title>
+</head>
+<body>
+    <h1>Unorder List</h1>
+    <ul>
+        <li>name1</li>
+        <li>name2</li>
+        <li>name3</li>
+        <li>name4</li>
+    </ul>
+
+    <h1>Order List</h1>
+    <ol type="1">  <!--A,a,I,i,1 -->
+
+        <li>name1
+            <ol>
+                <li>name1</li>
+                <li>name1</li>
+                <li>name1</li>
+            </ol>
+        </li>
+        <li>name2</li>
+        <li>name3</li>
+        <li>name4</li>
+    </ol>
+
+
+    <!-- Anchor Elements -->
+    <a href="https://google.com" target="_blank">Google</a>
+
+
+    <!-- Image Elements -->
+
+    <img src="img/image1.png" alt="ground Image" height="300px" width="300px">
+
+
+
+
+    
+
+
+</body>
+</html>
