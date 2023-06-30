@@ -1,0 +1,8 @@
+// new
+
+function fun(){
+    let name="john"
+    this.name=name;
+}
+console.log(new fun());
+
