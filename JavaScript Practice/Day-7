@@ -1,0 +1,42 @@
+// new
+
+// function fun(){
+//     let name="john"
+//     this.name=name;
+// }
+// console.log(new fun());
+
+// constuctor function
+
+// function fun(name){
+//     if(!new.target){
+//         return new fun(name);
+//     }
+//     this.name=name;
+// }
+// let d=fun("john");
+// console.log(d.name);
+
+// ASYNCHRONOUS
+// setTimeout(fun, 4000);
+// console.log("I ma");
+// function fun() {
+//   console.log("Prathamesh");
+// }
+// console.log("Narayane");
+
+// setTimeout(() => {
+//   console.log("Narayane");
+// }, 4000);
+
+// CALL Back Function
+function fun(a, b, c) {
+  let sum = a + b;
+  c(sum);
+}
+
+function fun2(val) {
+  console.log(val);
+}
+
+fun(4, 5, fun2);
