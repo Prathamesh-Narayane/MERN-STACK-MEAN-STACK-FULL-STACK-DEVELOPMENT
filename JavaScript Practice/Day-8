@@ -1,0 +1,36 @@
+// Call back function
+
+function loadingData(callback) {
+  setTimeout(() => {
+    console.log("1> loading Data...");
+    callback();
+  }, 4000);
+}
+function collectingData(callback) {
+  setTimeout(() => {
+    console.log("2> collecting Data...");
+    callback();
+  }, 5000);
+}
+function appovingData(callback) {
+  setTimeout(() => {
+    console.log("3> appoving Data...");
+    callback();
+  }, 1000);
+}
+function approved(callback) {
+  setTimeout(() => {
+    console.log("4> approved");
+    callback();
+  }, 3000);
+}
+
+// call back hell
+
+loadingData(function () {
+  collectingData(function () {
+    appovingData(function () {
+      approved(function () {});
+    });
+  });
+});
